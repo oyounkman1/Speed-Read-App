@@ -1,6 +1,7 @@
 ## Welcome to Speed Read App
 
-You View our App's  full wiki at  [our Wiki page](https://github.com/oyounkman1/Speed-Read-App/wiki) to answer any basic questions you may have about it's functionality "\n" 
+You View our App's  full wiki at  [our Wiki page](https://github.com/oyounkman1/Speed-Read-App/wiki) to answer any basic questions you may have about it's functionality\
+
 [Register](register.html)  
 [Login](login.html)  
 [Upload Documents](Upload_doc.html)  
