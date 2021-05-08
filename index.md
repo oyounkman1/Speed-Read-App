@@ -1,13 +1,11 @@
 ## Welcome to Speed Read App
 
 You View our App's  full wiki at  [our Wiki page](https://github.com/oyounkman1/Speed-Read-App/wiki) to answer any basic questions you may have about it's functionality
-[Register](register.php)
-[Login](login.html)
-[Upload Documents](Upload_doc.html)
+[Register](register.php)  
+[Login](login.html)  
+[Upload Documents](Upload_doc.html)  
 
 ### Wiki Pages
-
-```markdown
 [Functional Requirements](https://github.com/oyounkman1/Speed-Read-App/wiki/Functional-Requirements)   
 [Non-functional Requirements](https://github.com/oyounkman1/Speed-Read-App/wiki/Non-functional-Requirements)  
 [Use-Case Diagram Revision 1](https://github.com/oyounkman1/Speed-Read-App/wiki/Use-case-Diagram-Revision-1)  
